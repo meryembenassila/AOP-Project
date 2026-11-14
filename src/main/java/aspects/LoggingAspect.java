@@ -15,7 +15,7 @@ public class LoggingAspect {
 
     public LoggingAspect() throws IOException {
      logger.addHandler(new FileHandler("log.xml"));
-     //logger.setUseParentHandlers(false );//desactiver log dans la console
+     logger.setUseParentHandlers(false );//desactiver log dans la console
     }
 
     @Pointcut("execution(* Metier.IMetierBanqueImpl.*(..))")
