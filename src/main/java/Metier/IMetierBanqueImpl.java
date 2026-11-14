@@ -1,6 +1,4 @@
-package test;
-
-import Metier.Compte;
+package Metier;
 
 import java.util.HashMap;
 import java.util.Map;

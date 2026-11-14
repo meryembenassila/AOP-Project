@@ -1,6 +1,4 @@
-package test;
-
-import Metier.Compte;
+package Metier;
 
 public interface IMetierBanque {
     void addCompte(Compte cp);

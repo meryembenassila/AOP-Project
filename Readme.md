@@ -7,5 +7,9 @@ class syntax
 ![img_6.png](img_6.png)
 ![img_5.png](img_5.png)
 
-crer une app 
+créer une app 
 ![img_7.png](img_7.png)
+
+journalisation aspects 
+![img_9.png](img_9.png)
+![img_10.png](img_10.png)
