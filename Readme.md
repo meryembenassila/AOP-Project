@@ -6,3 +6,6 @@ class syntax
 ![img_3.png](img_3.png)
 ![img_6.png](img_6.png)
 ![img_5.png](img_5.png)
+
+crer une app 
+![img_7.png](img_7.png)
