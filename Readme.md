@@ -4,7 +4,7 @@
 Ce TP a pour but de mettre en œuvre l'approche orientée aspect (AOP) en Java. L'objectif principal est de comprendre comment ajouter des fonctionnalités techniques (comme la journalisation ou la sécurité) à une application existante, sans avoir à modifier son code source métier.
 
 ---
-## 🛠 Partie 1 : Implémentation et Syntaxes d'AspectJ
+##  Partie 1 : Implémentation et Syntaxes d'AspectJ
 
 ### 1. Syntaxe AspectJ (Classique)
 Cette approche utilise les mots-clés natifs d'AspectJ (`aspect`, `pointcut`).
